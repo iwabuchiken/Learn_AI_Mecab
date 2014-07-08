@@ -21,3 +21,8 @@
 	echo "<pre>";
 	print_r($result);
 	echo "</pre>";
+	
+	echo "<br>";
+	echo "<br>";
+	
+	echo "class => ".get_class($result);
